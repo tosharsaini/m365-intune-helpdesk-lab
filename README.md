@@ -2,6 +2,8 @@
 
 A cloud identity and device-management lab built in a Microsoft 365 tenant to practise the day-to-day tasks of an IT help desk / junior system administrator: onboarding users, managing groups, resetting passwords and enforcing device security with Intune.
 
+![Microsoft 365 & Intune Help Desk Lab](m365-intune-lab-thumbnail.png)
+
 This lab is the cloud companion to my on-premises [Active Directory Home Lab](https://github.com/tosharsaini/active-directory-home-lab).
 
 ## Environment
